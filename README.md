@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on on open source projects that tackle real-world problems<br>🤝 I’m looking for help with projects and expanding professional network<br>🌱 I’m currently learning React<br>💬 Ask me about the latest trends and technologies in web development<br>
+🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on open source projects that tackle real-world problems<br>🤝 I’m looking for help with projects and expanding professional network<br>🌱 I’m currently learning React<br>💬 Ask me about the latest trends and technologies in web development<br>
 
 
 ## 🌐 Socials:

@@ -25,5 +25,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IrfanSaeednarejo&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=IrfanSaeednarejo&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

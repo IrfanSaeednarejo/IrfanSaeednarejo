@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=IrfanSaeednarejo&icon=1&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on open source projects that tackle real-world problems<br>🤝 I’m looking for help with projects and expanding professional network<br>🌱 I’m currently learning React<br>💬 Ask me about the latest trends and technologies in web development<br>
+🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on open source projects that tackle real-world problems<br>🤝 I’m looking for help with projects and expanding the professional network<br>🌱 I’m currently learning Back End <br>💬 Ask me about the latest trends and technologies in web development<br>
 
 
 ## 🌐 Socials:
@@ -26,4 +26,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IrfanSaeednarejo&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-<!-- Created with GPRM -->
